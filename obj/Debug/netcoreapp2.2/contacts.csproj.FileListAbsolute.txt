@@ -1,0 +1,11 @@
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.csprojAssemblyReference.cache
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.csproj.CoreCompileInputs.cache
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.AssemblyInfoInputs.cache
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.AssemblyInfo.cs
+/Users/dominiqueyoumans/Desktop/contacts/bin/Debug/netcoreapp2.2/contacts.deps.json
+/Users/dominiqueyoumans/Desktop/contacts/bin/Debug/netcoreapp2.2/contacts.runtimeconfig.json
+/Users/dominiqueyoumans/Desktop/contacts/bin/Debug/netcoreapp2.2/contacts.runtimeconfig.dev.json
+/Users/dominiqueyoumans/Desktop/contacts/bin/Debug/netcoreapp2.2/contacts.dll
+/Users/dominiqueyoumans/Desktop/contacts/bin/Debug/netcoreapp2.2/contacts.pdb
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.dll
+/Users/dominiqueyoumans/Desktop/contacts/obj/Debug/netcoreapp2.2/contacts.pdb
