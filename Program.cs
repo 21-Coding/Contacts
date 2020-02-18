@@ -8,6 +8,7 @@ class Phonebook
 
   static void Main()
   {
+    Console.ForegroundColor = ConsoleColor.Cyan;
     Console.WriteLine("MAIN MENU");
     Console.WriteLine("Would you like to add a person to your phone book? ['Y' for yes, 'Enter' for no]");
     string answer = Console.ReadLine();
