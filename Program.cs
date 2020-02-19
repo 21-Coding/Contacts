@@ -67,6 +67,8 @@ class Phonebook
     if (phoneNumbers.ContainsKey(friend))
     {
       string value = phoneNumbers[friend];
+      Console.ForegroundColor = ConsoleColor.Black;
+      Console.BackgroundColor = ConsoleColor.White;
       Console.WriteLine(friend + "\'s phone number is " + value);
     }
     else
